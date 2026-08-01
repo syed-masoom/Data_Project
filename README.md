@@ -20,7 +20,6 @@ The goal of this portfolio is to showcase practical Excel skills by solving real
 - 📦 Category & Brand Performance
 - 📊 KPI & Trend Analysis
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -51,7 +50,6 @@ The goal of this portfolio is to showcase practical Excel skills by solving real
 - Customer Segmentation
 - Dashboard Automation
 
----
 
 ## 📊 Dashboard Highlights
 
@@ -66,7 +64,6 @@ Each dashboard includes:
 - 🎛️ Interactive Filters & Slicers
 - 📊 Dynamic Pivot Charts
 
----
 
 ## 📈 Business Metrics
 
@@ -82,7 +79,6 @@ Each dashboard includes:
 - Category Contribution
 - Brand Performance
 
----
 
 ## 🔄 Project Workflow
 
@@ -106,7 +102,6 @@ Business Insights
 Recommendations
 ```
 
----
 
 ## 💡 Business Impact
 
@@ -118,7 +113,6 @@ These dashboards help answer important business questions such as:
 - Which regions and brands perform best?
 - Where can the business improve profitability?
 
----
 
 ## 🚀 Repository Structure
 
@@ -134,7 +128,6 @@ Excel-Data-Analytics-Portfolio
 └── README.md
 ```
 
----
 
 ## 📚 What I Learned
 
@@ -148,15 +141,5 @@ Through these projects, I strengthened my skills in:
 - KPI Reporting
 - Analytical Thinking
 - Business Storytelling
-
----
-
-## 📬 Connect With Me
-
-- 💼 **LinkedIn:** *(Add your profile)*
-- 💻 **GitHub:** *(Add your profile)*
-- 📧 **Email:** *(Add your email)*
-
----
 
 ⭐ **If you found this repository helpful, consider giving it a Star!**
