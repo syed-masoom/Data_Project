@@ -5,12 +5,16 @@ A collection of end-to-end **Excel Data Analytics projects** built using real-wo
 
 ## 🎯 Project Objective
 
-The goal of this portfolio is to showcase practical Excel skills by solving real business problems through data analysis and interactive dashboard reporting.
+Analyze the sales data of a fashion store to understand the sales performance best selling products and revenue and profitability and whos our customers by performing RFM analysis and geography analysis to understand the region performance by which business can take strategic decision to boost their business performance.
+
+1. 
+
+Created multiple sales analytics dashboard using excel from different bus
 
 
 ## 📌 Key Business Analysis
 
-- 📈 Sales & Revenue Performance
+- 📈 Sales & Transaction Analysis Revenue Performance
 - 👥 Customer Analysis (RFM)
 - 🔄 New vs Repeat Customer Analysis
 - 🎁 Loyalty Program Analysis
