@@ -59,287 +59,170 @@ The focus is not only on creating dashboards, but on understanding the **busines
 
 ---
 
-# 📊 Projects & Dashboards
+# 📊 Excel Sales Dashboard Portfolio
 
-## 1. 🛒 Sales & Revenue Performance Dashboard
+A collection of **interactive Sales Analysis Dashboards built in Microsoft Excel** using realistic business datasets.
 
-**Objective:** Understand overall sales performance and identify the products, brands, and categories driving revenue and profitability.
-
-### Analysis
-
-* Monthly Revenue Trend
-* Sales & Order Performance
-* Revenue by Category
-* Revenue by Brand
-* Product Performance
-* Profitability Analysis
-* Average Order Value
-* Profit Margin
-* Top & Bottom Performing Products
-
-### Business Focus
-
-> Identify where revenue and profit are coming from and where management should focus its resources for sustainable growth.
+These projects focus on transforming raw sales data into **clear KPIs, performance trends, and actionable business insights** to support data-driven decision-making.
 
 ---
 
-## 2. 👥 Customer Analytics & RFM Dashboard
+## 🎯 Project Objective
 
-**Objective:** Understand customer purchasing behaviour and identify high-value and at-risk customers.
+The objective of these dashboards is to analyze sales performance and answer key business questions such as:
 
-### Analysis
-
-* Recency
-* Frequency
-* Monetary Value
-* RFM Scoring
-* Customer Segmentation
-* New vs Repeat Customers
-* Customer Purchase Behaviour
-* High-Value Customer Identification
-
-### Business Focus
-
-> Identify valuable customers, improve retention, and develop targeted customer strategies.
+* How are sales and revenue performing over time?
+* Which products and categories generate the most revenue?
+* Which brands contribute the most to sales?
+* Which products are driving profitability?
+* Which regions or segments are performing well?
+* Where are the key opportunities for improving sales and profit?
 
 ---
 
-## 3. 🏷️ Loyalty Program Analysis
+## 📈 Sales Analysis Covered
 
-**Objective:** Evaluate whether loyalty program members demonstrate stronger purchasing behaviour than non-members.
-
-### Analysis
-
-* Members vs Non-Members
-* Average Order Value
-* Purchase Frequency
-* Revenue Contribution
-* Customer Lifetime Value
-* Customer Retention
-
-### Business Focus
-
-> Determine whether the loyalty program is generating meaningful customer and revenue value.
+* **Monthly Sales & Revenue Trends**
+* **Revenue & Profit Analysis**
+* **Order Volume Analysis**
+* **Product Performance**
+* **Category & Subcategory Analysis**
+* **Brand Performance**
+* **Regional Sales Performance**
+* **Top & Bottom Products**
+* **Average Order Value (AOV)**
+* **Profit Margin Analysis**
+* **Revenue & Profit Contribution**
 
 ---
 
-## 4. 🎯 Discount & Promotion Analysis
+## 🛠️ Excel Skills Demonstrated
 
-**Objective:** Understand how discounts and promotional campaigns affect revenue, orders, AOV, and profitability.
+### Data Preparation
 
-### Analysis
+* Data Cleaning & Validation
+* Handling Missing & Duplicate Data
+* Data Transformation
+* Data Formatting
+* Power Query
 
-* Discount Usage
-* Revenue by Discount
-* Orders by Discount
-* Average Order Value
-* Profit Margin
-* Discount Contribution
-* Promotion Performance
+### Data Analysis
 
-### Business Focus
+* Pivot Tables
+* Pivot Charts
+* Advanced Excel Formulas
+* KPI Calculations
+* Ranking & Contribution Analysis
+* Trend Analysis
 
-> Identify whether promotions are driving incremental sales or simply reducing margins.
+### Dashboard Development
 
----
-
-## 5. 📦 Product & Category Performance Dashboard
-
-**Objective:** Identify high-performing and underperforming products and categories.
-
-### Analysis
-
-* Product Revenue
-* Product Profit
-* Units Sold
-* Category Performance
-* Subcategory Performance
-* Product Ranking
-* Revenue Contribution
-* Profit Contribution
-
-### Business Focus
-
-> Support product, inventory, and merchandising decisions using performance data.
+* Interactive KPI Cards
+* Slicers
+* Timelines
+* Dynamic Charts
+* Conditional Formatting
+* Interactive Filters
+* Executive Dashboard Design
 
 ---
 
-## 6. 🌍 Regional / Channel Sales Analysis
-
-**Objective:** Compare business performance across different regions and sales channels.
-
-### Analysis
-
-* Regional Revenue
-* Regional Profit
-* Orders by Region
-* Channel Performance
-* Customer Distribution
-* Regional Growth
-
-### Business Focus
-
-> Identify high-performing markets and potential areas for expansion.
-
----
-
-# 📌 Key KPIs
-
-The dashboards use business-focused KPIs such as:
-
-| KPI                      | Purpose                         |
-| ------------------------ | ------------------------------- |
-| **Total Revenue**        | Measure overall sales value     |
-| **Total Profit**         | Measure business profitability  |
-| **Total Orders**         | Track transaction volume        |
-| **AOV**                  | Measure average order value     |
-| **Profit Margin**        | Evaluate profitability          |
-| **Revenue Growth**       | Track business growth           |
-| **Customer LTV**         | Measure customer value          |
-| **Repeat Customer Rate** | Evaluate customer retention     |
-| **Revenue Contribution** | Identify major business drivers |
-
----
-
-# 🔄 Analytics Workflow
-
-Each project follows a structured data analytics process:
+## 🔄 Project Workflow
 
 ```text
-Raw Business Data
-       ↓
-Understand Business Problem
-       ↓
-Data Cleaning & Validation
-       ↓
+Raw Sales Data
+      ↓
+Data Cleaning
+      ↓
 Data Transformation
-       ↓
-Exploratory Data Analysis
-       ↓
-Pivot Table Analysis
-       ↓
+      ↓
+Exploratory Analysis
+      ↓
+Pivot Tables
+      ↓
 KPI Development
-       ↓
-Dashboard Development
-       ↓
-Identify Key Insights
-       ↓
-Business Recommendations
+      ↓
+Dashboard Design
+      ↓
+Business Insights
 ```
 
 ---
 
-# 💡 Business Analysis Approach
+## 📌 Key KPIs
 
-My approach is to go beyond **"What happened?"**
-
-I also try to answer:
-
-### What happened?
-
-Identify trends and performance changes.
-
-### Why did it happen?
-
-Break down performance by product, customer, category, region, channel, or other business dimensions.
-
-### What does it mean?
-
-Translate analytical findings into business implications.
-
-### What should the business do?
-
-Develop practical recommendations based on the evidence.
+| KPI                      | Purpose                           |
+| ------------------------ | --------------------------------- |
+| 💰 Total Revenue         | Measure overall sales             |
+| 📈 Total Profit          | Evaluate profitability            |
+| 🛒 Total Orders          | Track sales volume                |
+| 💵 Average Order Value   | Measure average revenue per order |
+| 📊 Profit Margin         | Monitor profitability             |
+| 📅 Monthly Growth        | Track sales trends                |
+| 🏆 Top Products          | Identify major revenue drivers    |
+| 📦 Category Contribution | Understand product mix            |
 
 ---
 
-# 📂 Repository Structure
+## 💡 Business Perspective
+
+The dashboards are designed to go beyond simply presenting numbers.
+
+The analysis focuses on:
+
+**What happened? → Why did it happen? → What does it mean? → What should the business do?**
+
+This approach helps convert Excel-based analysis into practical business recommendations around **sales growth, product strategy, profitability, and resource allocation.**
+
+---
+
+## 📂 Repository Structure
 
 ```text
-Excel-Data-Analytics-Portfolio/
+Excel-Sales-Dashboard-Portfolio/
 │
-├── 01-Sales-Revenue-Performance/
+├── Sales-Dashboard-01/
 │   ├── Dashboard.xlsx
 │   ├── Dataset.csv
-│   ├── Dashboard.png
-│   └── README.md
+│   └── Dashboard.png
 │
-├── 02-Customer-RFM-Analysis/
+├── Sales-Dashboard-02/
 │   ├── Dashboard.xlsx
 │   ├── Dataset.csv
-│   ├── Dashboard.png
-│   └── README.md
+│   └── Dashboard.png
 │
-├── 03-Loyalty-Program-Analysis/
+├── Sales-Dashboard-03/
 │   ├── Dashboard.xlsx
 │   ├── Dataset.csv
-│   ├── Dashboard.png
-│   └── README.md
-│
-├── 04-Discount-Analysis/
-│   ├── Dashboard.xlsx
-│   ├── Dataset.csv
-│   ├── Dashboard.png
-│   └── README.md
-│
-├── 05-Product-Performance/
-│   ├── Dashboard.xlsx
-│   ├── Dataset.csv
-│   ├── Dashboard.png
-│   └── README.md
+│   └── Dashboard.png
 │
 └── README.md
 ```
 
 ---
 
-# 📚 Key Learning Outcomes
+## 🎓 Skills Demonstrated
 
-Through these projects, I strengthened my practical skills in:
-
-* Business & Sales Analytics
-* Data Cleaning & Transformation
-* Excel Data Analysis
-* Customer Analytics
-* RFM Segmentation
-* KPI Development
-* Dashboard Design
-* Data Visualization
-* Power Query
-* Pivot Table Analysis
-* Business Storytelling
-* Data-Driven Decision Making
+**Microsoft Excel | Power Query | Pivot Tables | Pivot Charts | Data Cleaning | Data Analysis | KPI Reporting | Data Visualization | Business Analysis | Dashboard Design**
 
 ---
 
-# 🚀 What This Portfolio Demonstrates
+## 🚀 Portfolio Goal
 
-This portfolio demonstrates my ability to:
-
-**Clean → Analyze → Visualize → Interpret → Recommend**
-
-Rather than treating Excel as only a spreadsheet tool, I use it as an analytical platform to turn raw business data into information that can support better business decisions.
+These projects demonstrate my ability to take **raw sales data → perform structured analysis → build an interactive Excel dashboard → communicate business insights** in a clear and decision-oriented way.
 
 ---
 
-## 👋 About Me
+## 👤 About
 
-I am an aspiring **Data Analyst** with a strong interest in using data to solve business problems and support decision-making.
+**Aspiring Data Analyst** focused on Sales Analytics, Business Analytics, and Data Visualization.
 
-My core analytical skills include:
-
-**Excel | SQL | Power BI | Data Analysis | Business Analytics**
-
-I enjoy working with raw datasets, finding meaningful patterns, and turning analysis into clear business stories.
+**Skills:** Excel • SQL • Power BI • Data Analysis • Business Analytics
 
 ---
 
-## 🔗 Connect With Me
+⭐ **If you find this project useful, feel free to star the repository.**
 
-* 💼 **LinkedIn:** [Add your LinkedIn URL]
-* 💻 **GitHub:** [Add your GitHub URL]
-* 📧 **Email:** [Add your Email]
 
----
 
 ⭐ **If you find this portfolio useful, feel free to star the repository.**
