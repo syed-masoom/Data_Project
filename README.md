@@ -213,16 +213,4 @@ These projects demonstrate my ability to take **raw sales data → perform struc
 
 ---
 
-## 👤 About
-
-**Aspiring Data Analyst** focused on Sales Analytics, Business Analytics, and Data Visualization.
-
-**Skills:** Excel • SQL • Power BI • Data Analysis • Business Analytics
-
----
-
 ⭐ **If you find this project useful, feel free to star the repository.**
-
-
-
-⭐ **If you find this portfolio useful, feel free to star the repository.**
